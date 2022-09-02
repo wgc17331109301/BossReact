@@ -1,0 +1,43 @@
+.header{
+  box-sizing: border-box;
+  padding: 10px;
+  width: 100%;
+  height: 60px;
+  background-color: #37c2bb!important;
+  z-index: 99;
+  color: #fff;
+}
+.headerC1{
+  float: left;
+  font-size: 24px;
+  line-height: 40px;
+}
+.headerC2{
+  float: left;
+  width: 50%;
+  padding: 5px;
+  margin-left: 20px;
+  margin-top: 5px;
+  border-radius: 18px;
+  background-color: #61dad3!important;
+}
+.headerC3{
+  float: left;
+  margin-top: 10px;
+  margin-left: 35px;
+}
+.headerC4{
+  float: left;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.img{
+  margin-top: 5px;
+}
+
+.contentItem{
+  margin-top: 20px;
+  float: left;
+  width: 20%;
+  text-align: center;
+}

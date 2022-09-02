@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.clear{
+  clear: both;
+}
+a{
+  text-decoration: none;
+}
+.link{
+  color: black!important;
+}

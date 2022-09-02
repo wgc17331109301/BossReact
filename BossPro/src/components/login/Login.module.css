@@ -1,0 +1,19 @@
+.login{
+  box-sizing: border-box;
+  padding: 10px;
+}
+.phone{
+  margin-top: 10px;
+  font-size: 20px;
+  color: #888;
+}
+.phoneIpt{
+  height: 30px;
+  width: 50%;
+  margin: 30px 25%;
+  border: 0.1px solid pink;
+}
+.phoneBtn{
+  width: 50%;
+  margin: 30px 25%;
+}

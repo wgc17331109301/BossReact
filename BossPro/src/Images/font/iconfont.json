@@ -1,0 +1,37 @@
+{
+  "id": "2830352",
+  "name": "xiaole",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1308383",
+      "name": "200用户_用户",
+      "font_class": "200yonghu_yonghu",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "2199071",
+      "name": "公文包",
+      "font_class": "gongwenbao",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "5207131",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "16969326",
+      "name": "比心",
+      "font_class": "bixin",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    }
+  ]
+}

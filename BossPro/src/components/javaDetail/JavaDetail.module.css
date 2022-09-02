@@ -1,0 +1,56 @@
+.detail{
+  box-sizing: border-box;
+  padding: 15px;
+}
+.headerLeft{
+  float: left;
+}
+.headerRight{
+  float: right;
+}
+.clear{
+  clear: both;
+}
+.lili{
+  margin-top: 20px;
+}
+.job{
+  float: left;
+  font-weight: 700;
+}
+.salary{
+  float: right;
+  color: #37c2bb;
+}
+.avatar{
+  float: left;
+}
+.hr{
+  margin:5px 0 0 20px;
+  float: left;
+}
+.fontSizeSmall{
+  transform: scale(0.8);
+}
+.rightRrrow{
+  margin-top: 20px;
+  float: right;
+}
+.introduce{
+  margin-bottom: 120px;
+}
+.btnBox{
+  width: 100%;
+  height: 80px;
+  position: fixed;
+  bottom: 40px;
+  background-color: #fff;
+}
+.btn{
+  color: #fff;
+  border: none;
+  width: 90%;
+  height: 40px;
+  border-radius: 5px;
+  background-color: #37c2bb;
+}

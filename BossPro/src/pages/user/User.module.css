@@ -1,0 +1,73 @@
+.header{
+  color: #fff;
+  width: 100%;
+  height: 160px;
+  background-color: #37c2bb!important;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.icon{
+  float: right;
+}
+.left{
+  float: left;
+  margin-top: 50px;
+}
+.left h2{
+  color: #fff;
+}
+.left h6{
+  color: #fff;
+}
+.right{
+  float: right;
+  margin-top: 50px;
+}
+
+
+/* 复制粘贴过来的 */
+.content{
+  background-color: #fff;
+  font-weight: 600;
+  box-sizing: border-box;
+  padding: 20px;
+}
+.ask{
+  float: left;
+  width: 50%;
+}
+.fun{
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+.funFont{
+  transform: scale(0.95);
+  color: #888;
+}
+.askC{
+  line-height: 30px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.tail{
+  box-sizing: border-box;
+  padding: 10px;
+}
+.tailC{
+  float: left;
+  width: 25%;
+  text-align: center;
+  margin-top: 10px;
+}
+.borderLine{
+  width: 100%;
+  height: 4px;
+  background-color: #eee;
+}
+.info{
+  margin-top: 30px;
+  text-align: center;
+  transform: scale(0.8);
+}
